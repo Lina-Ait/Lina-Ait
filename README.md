@@ -7,7 +7,7 @@ Machine Learning & Backend Engineer
 ---
 
 ## ⚙️ Tech Stack
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+![Python](https://shields.io)
 
 
 ---
