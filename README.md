@@ -5,17 +5,17 @@ Machine Learning & Backend Engineer
 
 ---
 
+## ⚙️ Tech Stack
+https://skillicons.dev/icons?i=java,python,c,mysql,spring,react,nodejs,docker,aws,azure,kubernetes,git,linux
+
+---
+
 ## 🧠 About Me
 - Machine Learning Engineer @ Qualcomm  
 - Former Cloud Backend Engineer @ Shopify  
 - Data Engineer experience @ CAE  
 - 1st place @ Hack McWiCS 2026 (StudyBuddy)  
 - Interested in scalable systems and applied AI  
-
----
-
-## ⚙️ Tech Stack
-https://skillicons.dev/icons?i=java,python,c,mysql,spring,react,nodejs,docker,aws,azure,kubernetes,git,linux
 
 ---
 
