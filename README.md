@@ -7,7 +7,7 @@ Machine Learning & Backend Engineer
 ---
 
 ## ⚙️ Tech Stack
-https://skillicons.dev/icons?i=java,python,c,mysql,spring,react,nodejs,docker,aws,azure,kubernetes,git,linux
+![Java](https://shields.io)
 
 ---
 
