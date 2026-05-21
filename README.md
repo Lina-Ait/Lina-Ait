@@ -6,12 +6,6 @@ Machine Learning & Backend Engineer
 
 ---
 
-## ⚙️ Tech Stack
-![Python](https://shields.io)
-
-
----
-
 ## 🧠 About Me
 - Machine Learning Engineer @ Qualcomm  
 - Former Cloud Backend Engineer @ Shopify  
