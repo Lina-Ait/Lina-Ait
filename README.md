@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hey, I’m Lina
 
-<!--
-**Lina-Ait/Lina-Ait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering @ McGill  
+Machine Learning & Backend Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Machine Learning Engineer @ Qualcomm  
+- Former Cloud Backend Engineer @ Shopify  
+- Data Engineer experience @ CAE  
+- 1st place @ Hack McWiCS 2026 (StudyBuddy)  
+- Interested in scalable systems and applied AI  
+
+---
+
+## ⚙️ Tech Stack
+https://skillicons.dev/icons?i=java,python,c,mysql,spring,react,nodejs,docker,aws,azure,kubernetes,git,linux
+
+---
+
+## 🚀 Projects & Work
+- ML dependency extraction using BERT — 92% accuracy  
+- Serverless backend systems (30+ AWS Lambdas)  
+- 10TB data migration pipeline on Azure  
+- StudyBuddy — AI-powered study matching platform  
+- EPL Match Predictor — 86% accuracy  
+- Face Recognition system — 95% accuracy  
+
+---
+
+## 🌱 Currently
+Scaling ML systems and exploring LLMs, embeddings, and automation  
+
+---
+
+## 📫 Contact
+- linaaitouahmane@gmail.com  
+- https://github.com/Lina-Ait
